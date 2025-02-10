@@ -20,6 +20,8 @@
 - 📫 You can [view my resume](#) and contact me by emailing abdulafeezoluwashola2@gmail.com
 
 ---
+![My Tech Stack](https://skillicons.dev/icons?i=javascript,typescript,nextjs,nodejs,tailwind,firebase)
+
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrOLU24&show_icons=true&include_all_commits=true&hide_border=true" alt="OLU's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrOLU24&langs_count=8&layout=compact&hide_border=true" alt="OLU's GitHub stats" /> |
 | ------------- | ------------- |
