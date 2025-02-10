@@ -21,7 +21,9 @@
 
 ---
 <h1>⚒️ Languages & Tools ⚒️ </h1>
+
 ![My Tech Stack](https://skillicons.dev/icons?i=javascript,typescript,nextjs,nodejs,tailwind,firebase)
+
 
 
 
