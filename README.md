@@ -1,7 +1,8 @@
 ![Visit Badge](https://camo.githubusercontent.com/34d962feae2ea9af0db1217357a321697a80eeec8dcb692d6323699d82cbae41/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d73616c65737030372e73616c6573703037)
 # Hello there; welcome 👋🏾
 
-![greetings](https://camo.githubusercontent.com/)
+![greetings](https://readme-typing-svg.herokuapp.com/?font=Rightous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+🚀;Welcome+to+My+GitHub!+👋
+)
 
 
 <h1 style="blue">Creative software developer</h1>
