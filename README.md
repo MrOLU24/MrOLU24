@@ -20,6 +20,8 @@
 - 📫 You can [view my resume](#) and contact me by emailing abdulafeezoluwashola2@gmail.com
 
 ---
+#⚒️ Languages & Tools ⚒️
+
 ![My Tech Stack](https://skillicons.dev/icons?i=javascript,typescript,nextjs,nodejs,tailwind,firebase)
 
 
