@@ -2,23 +2,23 @@
 
 ![Greetings](https://readme-typing-svg.herokuapp.com/?font=Rightous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+🚀;I'm+MrOLU+!;Welcome+to+My+GitHub!+👋)
 
-# 🎯 Frontend Developer & Design Engineer
+# 🎯 Frontend & Design Engineer
 
 [![Portfolio](https://img.shields.io/badge/-MrOLUDEV.COM-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://mrolu-webdev.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/-OLUWASHOLA-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oluwashola-olatunji-02b697320/)  
-[![Twitter](https://img.shields.io/badge/-@MrOlu-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MrOlu247)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwashola-olatunji-02b697320/)  
+[![X (Twitter)](https://img.shields.io/badge/-@MrOlu-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MrOlu247)
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a **Frontend Developer and Design Engineer** passionate about building **accessible, user-centric, and performant web applications**.  
+I'm a **Frontend & Design Engineer** passionate about building **accessible, user-centric, and performant web applications**.  
 I combine **clean code** with **thoughtful design** to solve real-world problems.
 
-- 🧠 Constantly learning, iterating, and improving.
-- 🛠️ Bridging the gap between design and engineering.
-- 💡 Obsessed with beautiful UI, smooth UX, and purposeful animations.
-- 🌍 Focused on impact, not hype.
+- 🧠 Constantly learning, iterating, and improving  
+- 🛠️ Bridging the gap between design and engineering  
+- 💡 Obsessed with beautiful UI, smooth UX, and purposeful animations  
+- 🌍 Focused on impact, not hype
 
 ---
 
@@ -41,4 +41,3 @@ Got a cool idea or need a frontend engineer with design thinking?
 📩 [abdulafeezoluwashola2@gmail.com](mailto:abdulafeezoluwashola2@gmail.com)
 
 ---
-
