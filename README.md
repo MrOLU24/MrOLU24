@@ -1,43 +1,70 @@
-![Visitor Badge](https://camo.githubusercontent.com/34d962feae2ea9af0db1217357a321697a80eeec8dcb692d6323699d82cbae41/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d73616c65737030372e73616c6573703037)
+![Profile Views](https://komarev.com/ghpvc/?username=MrOLU24&label=Profile%20views&color=0e75b6&style=flat)
 
-![Greetings](https://readme-typing-svg.herokuapp.com/?font=Rightous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+🚀;I'm+MrOLU+!;Welcome+to+My+GitHub!+👋)
-
-# 🎯 Frontend & Design Engineer
-
-[![Portfolio](https://img.shields.io/badge/-MrOLUDEV.COM-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://mrolu-webdev.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwashola-olatunji-02b697320/)  
-[![X (Twitter)](https://img.shields.io/badge/-@MrOlu-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MrOlu247)
+<h1 align="center">Hi 👋, I'm Oluwashola (MrOLU)</h1>
+<h3 align="center">Frontend Engineer • UX-Focused • Impact-Driven Builder</h3>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 What I Do
 
-I'm a **Frontend & Design Engineer** passionate about building **accessible, user-centric, and performant web applications**.  
-I combine **clean code** with **thoughtful design** to solve real-world problems.
+I’m a **Frontend Engineer with strong UX & design thinking**, focused on building **accessible, scalable, and user-first web products**.
 
-- 🧠 Constantly learning, iterating, and improving  
-- 🛠️ Bridging the gap between design and engineering  
-- 💡 Obsessed with beautiful UI, smooth UX, and purposeful animations  
-- 🌍 Focused on impact, not hype
+I work at the intersection of **design, engineering, and product**, ensuring what we build:
+- Solves real user problems  
+- Looks clean and intuitive  
+- Performs fast and reliably  
 
----
-
-### 🔧 Tech Stack
-
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,firebase,figma,git)
+I care more about **impact and usability** than trends or hype.
 
 ---
 
-### 📈 GitHub Stats
+### 🧠 Core Strengths
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrOLU24&show_icons=true&include_all_commits=true&hide_border=true" alt="OLU's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrOLU24&langs_count=8&layout=compact&hide_border=true" alt="Top Languages" /> |
-| ------------- | ------------- |
+- Translating designs into clean, scalable UI
+- Bridging designers and engineers effectively
+- UX-driven decision making
+- Performance, accessibility & usability
+- Building products people actually enjoy using
+
+---
+
+### 🛠 Tech Stack
+
+**Frontend**
+  
+![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind)
+
+**Backend & Tools**
+  
+![Tools](https://skillicons.dev/icons?i=nodejs,firebase,git,github,figma)
 
 ---
 
-### 📬 Let's Connect
+### 🌍 Currently
 
-Got a cool idea or need a frontend engineer with design thinking?  
-📩 [abdulafeezoluwashola2@gmail.com](mailto:abdulafeezoluwashola2@gmail.com)
+- Building real-world products with **React, Next.js & Tailwind**
+- Exploring **AI integrations** in frontend products
+- Improving product thinking & UX research skills
+- Contributing to team and open-source projects
 
 ---
+
+### 🔗 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mrolu--webdev.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://mrolu-webdev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oluwashola%20Olatunji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwashola-olatunji-02b697320/)
+[![X](https://img.shields.io/badge/X-@MrOlu247-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MrOlu247)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrOLU24&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrOLU24&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+📫 **Email:**  
+abdulafeezoluwashola2@gmail.com
